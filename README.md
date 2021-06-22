@@ -1,2 +1,2 @@
-# example
-doc example
+# examples
+examples
